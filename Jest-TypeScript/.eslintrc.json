@@ -1,0 +1,30 @@
+{
+  "plugins": ["jest"],
+  "extends": [
+    "./.eslintrc.general.js",
+    "plugin:jest/recommended",
+    "plugin:jest/style"
+  ],
+  "env": {
+    "jest": true
+  },
+  "rules": {
+    "jest/no-commented-out-tests": "error",
+    "jest/no-deprecated-functions": "error",
+    "jest/no-duplicate-hooks": "off",
+    "jest/no-test-prefixes": "error",
+    "jest/prefer-hooks-on-top": "error",
+    "jest/lowercase-name": "error",
+    "jest/valid-expect": "error",
+    "jest/no-disabled-tests": "error",
+    "jest/no-focused-tests": "error",
+    "jest/prefer-to-have-length": "off",
+    "jest/no-try-expect": "off",
+    "jest/no-conditional-expect": "off",
+    "jest/expect-expect": "off",
+    "jest/no-standalone-expect": "warn",
+    "jest/valid-title": "error",
+    "jest/valid-describe": "error",
+    "jest/require-top-level-describe": "error"
+  }
+}
