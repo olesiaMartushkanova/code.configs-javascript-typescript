@@ -6,8 +6,8 @@ So I decided to finally organize everything in one place.
 
 ## Available configs
 
-1. [eslint](https://github.com/olesiaMartushkanova/code.configs-javascript-typescript/tree/main/ESLint)
-2. [prettier](https://github.com/olesiaMartushkanova/code.configs-javascript-typescript/tree/main/Prettier)
+1. [ESLint](https://github.com/olesiaMartushkanova/code.configs-javascript-typescript/tree/main/ESLint)
+2. [Prettier](https://github.com/olesiaMartushkanova/code.configs-javascript-typescript/tree/main/Prettier)
 
 ## How to use them
 
